@@ -19,3 +19,16 @@
 	+ 07/05 - 21/05: Test & Improve model
 	+ 21/05 - 04/06: Test & Improve model
     + 04/06 - 15/06: Improve report and slide
+
+## MILESTONE (DUY)
+	+ 15/01 - 29/01: Implement chatbot with Rasa (https://rasa.com/) (!!! Implement with Python so change plan to research next thing)
+	+ 29/01 - 12/02: Implement chatbot with Wit (https://wit.ai/)
+	+ 12/02 - 26/02: Implement chatbot with Qna Maker + LUIS (https://www.qnamaker.ai/, https://www.luis.ai/, Bot Framework Emulator)
+	+ 26/02 - 12/03: Implement chatbot with Dialogflow (https://chatbotslife.com/dialogflow-tutorial-build-resume-chatbot-for-google-assistant-part-1-12c8c5e78c10)
+	+ 12/03 - 26/03: Compare all of API above (Strength points, Weak points)
+	+ 26/03 - 09/04: Apply 1.7 billion comments into chatbot and compare
+	+ 09/04 - 23/04: Get data -> Clean, prepare & manipulate data
+	+ 23/04 - 07/05: Train model & Test data
+	+ 07/05 - 21/05: Test & Improve model
+	+ 21/05 - 04/06: Test & Improve model
+    + 04/06 - 15/06: Improve report and slide
